@@ -1,0 +1,20 @@
+{
+  "name": "account-info-veldora",
+  "version": "1.0.0",
+  "description": "Account Info Veldora - Telegram Bot for User Account Information",
+  "main": "api/webhook.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "dotenv": "^16.4.5",
+    "moment-timezone": "^0.5.45"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "keywords": ["telegram", "bot", "info", "account", "veldora", "xnecz", "leguminy"],
+  "author": "@xnecz",
+  "license": "MIT"
+}
